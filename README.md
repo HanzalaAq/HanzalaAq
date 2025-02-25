@@ -10,7 +10,7 @@ I'm a **Data Science student** at **Sir Syed University of Engineering and Techn
 
 ### 🏆 My Journey
 - Started with **Web Development** but found my passion in **Data and AI**
-- Currently in my **1st semester** of **Data Science** 🎓
+- Currently in my **2nd semester** of **Data Science** 🎓
 - Selected as a **Content Writer** for a college society ✍️
 
 ### 🔧 Tech Stack
