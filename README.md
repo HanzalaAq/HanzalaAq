@@ -8,11 +8,6 @@ I'm a **Data Science student** at **Sir Syed University of Engineering and Techn
 - **R Programming** 📈
 - **Object-Oriented Programming (OOP) in Java and Python** ☕
 
-### 🏆 My Journey
-- Started with **Web Development** but found my passion in **Data and AI**
-- Currently in my **2nd semester** of **Data Science** 🎓
-- Selected as a **Content Writer** for a college society ✍️
-
 ### 🔧 Tech Stack
 - **Languages**: Python, Java, R, HTML, CSS, JavaScript
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Scikit-Learn
